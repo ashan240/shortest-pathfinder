@@ -1,4 +1,6 @@
 # shortest-pathfinder
+Web application to visualize Dijkstra algorithm using React.js. It finds the shortest distance
+between two nodes in a grid with customisable walls
 ![image](https://user-images.githubusercontent.com/83868114/190484424-d19e0198-85ee-401b-a76b-9cdea983ba33.png)
 ![image](https://user-images.githubusercontent.com/83868114/190484473-e9f76219-6801-4f35-99e9-180844dc7548.png)
 ![image](https://user-images.githubusercontent.com/83868114/190484502-6a9fc0e1-1945-4260-99e1-1b0db4fc54d5.png)
